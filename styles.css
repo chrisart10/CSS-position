@@ -25,6 +25,6 @@
     height: 200vh;
 }
 .child-one{
-    position: fixed;
+    position: sticky;
     top: 0;
 }
