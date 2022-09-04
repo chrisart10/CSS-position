@@ -19,3 +19,16 @@
 .child-three {
     background: rgb(237, 100, 205);
 }
+/* Positioning */
+.child-one{
+    position: relative;
+    top:10px;
+}
+.child-two{
+    position: relative;
+    top:10px;
+}
+.child-three{
+    position: relative;
+    top:10px;
+}
