@@ -19,3 +19,12 @@
 .child-three {
     background: rgb(237, 100, 205);
 }
+/* Positioning */
+.parent{
+    position: relative;
+    height: 200vh;
+}
+.child-one{
+    position: fixed;
+    top: 0;
+}
