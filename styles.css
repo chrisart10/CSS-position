@@ -1,0 +1,21 @@
+/* styles */
+.parent {
+    background: rgb(48, 163, 229);
+    padding: 8px;
+}
+
+.child {
+    padding: 10px;
+}
+
+.child-one {
+    background: rgb(48, 229, 93);
+}
+
+.child-two {
+    background: rgb(216, 121, 83);
+}
+
+.child-three {
+    background: rgb(237, 100, 205);
+}
